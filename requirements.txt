@@ -28,7 +28,7 @@ packaging==23.2
 pickle5==0.0.12
 pipwin==0.5.2
 preshed==3.0.9
-PyAudio @ file:///C:/Users/W%20A%20Geraldine/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl#sha256=40efd3e2961992335d5088692038757221dcf1b63823fd7b079bdc028a057eb7
+PyAudio==0.2.11
 pydantic==1.10.13
 pyjsparser==2.7.1
 PyPrind==2.11.3
